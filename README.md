@@ -270,10 +270,13 @@ PY="C:/Users/G1381/.workbuddy/binaries/python/versions/3.13.12/python.exe"
 
 | 文件 | 说明 |
 |---|---|
-| `SKILL.md` | 完整的工作流文档（六阶段） |
+| `SKILL.md` | 完整的工作流文档（六阶段 + 阶段 3.5/3.6/3.7 核查深化） |
 | `README.md` | 本文件（安装、依赖、快速开始） |
 | `references/dimension_decomposition.md` | 维度分解参考（阶段 1） |
 | `references/grade_assessment.md` | GRADE 证据分级参考（阶段 4） |
+| `references/citation_audit.md` | **引用回溯核查**（五类必查错误 + 七条铁律，阶段 3.5） |
+| `references/paper_reading_protocol.md` | **逐篇精读模板**（八节结构，阶段 3.5/3.6） |
+| `references/full_library_reading.md` | **全库精读模式**（防误引负面清单，阶段 3.6） |
 | `scripts/evidence_exhaust.py` | 证据穷尽与全文获取（阶段 1–2） |
 | `scripts/debate_generator.py` | 迭代攻防生成（阶段 3） |
 | `scripts/delivery_generator.py` | 多版本交付生成（阶段 6） |
